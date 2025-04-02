@@ -24,8 +24,8 @@ body {
 
 .container-divs {
     display: flex;
-    flex-grow: 1 1 0;
-    width: 10%;
+    min-width: 1%;
+    min-height: 1%;
 }
 
 button {
